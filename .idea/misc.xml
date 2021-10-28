@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/peter/Desktop/MyInstagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/peter/Desktop/MyInstagram/app/src/main/res/layout/activity_login.xml" value="0.13240740740740742" />
+        <entry key="..\:/Users/peter/Desktop/MyInstagram/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/peter/Desktop/MyInstagram/app/src/main/res/layout/fragment_compose.xml" value="0.1" />
+        <entry key="..\:/Users/peter/Desktop/MyInstagram/app/src/main/res/layout/fragment_post.xml" value="0.264" />
+        <entry key="..\:/Users/peter/Desktop/MyInstagram/app/src/main/res/layout/item_post.xml" value="0.264" />
         <entry key="..\:/Users/peter/Desktop/MyInstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.264" />
       </map>
     </option>
